@@ -1,7 +1,7 @@
 Peacnut 🥜
 ===========
 
-> Version: 1.0.2
+![Static Badge](https://img.shields.io/badge/Version-1.0.2-orange)
 
 ## Comment l'utiliser sur sa machine
 
@@ -11,12 +11,12 @@ Dans votre terminal ou directement dans VS Code clonez le git:
 
 ```
 /* Dans le terminal */
-git clone https://github.com/diegoposba/Peacnut.git
+git clone https://github.com/Australes-Inc/Peacnut.git
 
 /* Dans VS Code */
 Crtl + Shift + G
 Cliquez sur Clone Repository 
-Entrez: https://github.com/diegoposba/Peacnut.git
+Entrez: https://github.com/Australes-Inc/Peacnut.git
 ```
 
 ## Ajouter l'extension à Chrome (ou Edge)
