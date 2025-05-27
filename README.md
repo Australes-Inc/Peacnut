@@ -3,8 +3,6 @@ Peacnut 🥜
 
 > Version: 1.0.2
 
->Réalisé par Diego Posado Bañuls
-
 ## Comment l'utiliser sur sa machine
 
 Pour publier des extensions sur _Chrome Web Store_, il faut payer 5$, c'est pourquoi je vous propose de passer par ce git pour accéder à l'extension.
@@ -46,3 +44,5 @@ Maintenant en cliquant sur l'extension, vous pourrez extraire des images depuis 
 ## Licence
 
 Peacnut est sous licence MIT ([MIT-LICENSE](./LICENSE) ou [https://opensource.org/license/MIT](https://opensource.org/license/MIT)).
+
+>Réalisé par Diego Posado Bañuls & Imaginé par Samy Kerri
